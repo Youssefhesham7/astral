@@ -47,33 +47,33 @@ function deductFromTotal() {
 }
 function deductFromTotal1() {
   r = document.getElementById("r").value;
-  if (r == 10) {
+  if (r ==10) {
     document.getElementById("rain").innerHTML = "You can't plant!!!";
-  } else if (r == 9) {
-    document.getElementById("rain").innerHTML = "You can't plant!!!";
-
-  } else if (r == 8) {
+  } else if (r == 9 ){
     document.getElementById("rain").innerHTML = "You can't plant!!!";
 
-  } else if (r == 7) {
+  } else if (r == 8 ){
     document.getElementById("rain").innerHTML = "You can't plant!!!";
 
-  } else if (r == 6) {
+  } else if (r == 7 ){
+    document.getElementById("rain").innerHTML = "You can't plant!!!";
+
+  } else if (r == 6 ){
     document.getElementById("rain").innerHTML = "The variety of farming will now have a success rate 40%";
 
-  } else if (r == 5) {
+  } else if (r == 5 ){
     document.getElementById("rain").innerHTML = "The variety of farming will now have a success rate 50%";
 
-  } else if (r == 4) {
+  } else if (r == 4 ){
     document.getElementById("rain").innerHTML = "The variety of farming will now have a success rate 60%";
 
-  } else if (r == 3) {
+  } else if (r == 3 ){
     document.getElementById("rain").innerHTML = "You can plant :)";
 
-  } else if (r == 2) {
+  } else if (r == 2 ){
     document.getElementById("rain").innerHTML = "You can plant :)";
 
-  } else if (r == 1) {
+  } else if (r == 1 ){
     document.getElementById("rain").innerHTML = "You can plant :)";
 
   } else {
@@ -82,33 +82,33 @@ function deductFromTotal1() {
 }
 function deductFromTotal2() {
   hum = document.getElementById("humm").value;
-  if (hum == 10) {
+  if (hum ==10) {
     document.getElementById("hum").innerHTML = "You can't plant!!!";
-  } else if (hum == 9) {
-    document.getElementById("hum").innerHTML = "You can't plant!!!";
-
-  } else if (hum == 8) {
+  } else if (hum == 9 ){
     document.getElementById("hum").innerHTML = "You can't plant!!!";
 
-  } else if (hum == 7) {
+  } else if (hum == 8 ){
     document.getElementById("hum").innerHTML = "You can't plant!!!";
 
-  } else if (hum == 6) {
+  } else if (hum == 7 ){
+    document.getElementById("hum").innerHTML = "You can't plant!!!";
+
+  } else if (hum == 6 ){
     document.getElementById("hum").innerHTML = "The variety of farming will now have a success rate 40%";
 
-  } else if (hum == 5) {
+  } else if (hum == 5 ){
     document.getElementById("hum").innerHTML = "The variety of farming will now have a success rate 50%";
 
-  } else if (hum == 4) {
+  } else if (hum == 4 ){
     document.getElementById("hum").innerHTML = "The variety of farming will now have a success rate 60%";
 
-  } else if (hum == 3) {
+  } else if (hum == 3 ){
     document.getElementById("hum").innerHTML = "You can plant :)";
 
-  } else if (hum == 2) {
+  } else if (hum == 2 ){
     document.getElementById("hum").innerHTML = "You can plant :)";
 
-  } else if (hum == 1) {
+  } else if (hum == 1 ){
     document.getElementById("hum").innerHTML = "You can plant :)";
 
   } else {
@@ -117,33 +117,33 @@ function deductFromTotal2() {
 }
 function deductFromTotal3() {
   d = document.getElementById("dd").value;
-  if (d == 10) {
+  if (d ==10) {
     document.getElementById("d").innerHTML = "You can't plant!!!";
-  } else if (d == 9) {
-    document.getElementById("d").innerHTML = "You can't plant!!!";
-
-  } else if (d == 8) {
+  } else if (d == 9 ){
     document.getElementById("d").innerHTML = "You can't plant!!!";
 
-  } else if (d == 7) {
+  } else if (d == 8 ){
     document.getElementById("d").innerHTML = "You can't plant!!!";
 
-  } else if (d == 6) {
+  } else if (d == 7 ){
+    document.getElementById("d").innerHTML = "You can't plant!!!";
+
+  } else if (d == 6 ){
     document.getElementById("d").innerHTML = "The variety of farming will now have a success rate 40%";
 
-  } else if (d == 5) {
+  } else if (d == 5 ){
     document.getElementById("d").innerHTML = "The variety of farming will now have a success rate 50%";
 
-  } else if (d == 4) {
+  } else if (d == 4 ){
     document.getElementById("d").innerHTML = "The variety of farming will now have a success rate 60%";
 
-  } else if (d == 3) {
+  } else if (d == 3 ){
     document.getElementById("d").innerHTML = "You can plant :)";
 
-  } else if (d == 2) {
+  } else if (d == 2 ){
     document.getElementById("d").innerHTML = "You can plant :)";
 
-  } else if (d == 1) {
+  } else if (d == 1 ){
     document.getElementById("d").innerHTML = "You can plant :)";
 
   } else {
@@ -152,33 +152,33 @@ function deductFromTotal3() {
 }
 function deductFromTotal4() {
   p = document.getElementById("pp").value;
-  if (p == 10) {
+  if (p ==10) {
     document.getElementById("p").innerHTML = "You can't plant!!!";
-  } else if (p == 9) {
-    document.getElementById("p").innerHTML = "You can't plant!!!";
-
-  } else if (p == 8) {
+  } else if (p == 9 ){
     document.getElementById("p").innerHTML = "You can't plant!!!";
 
-  } else if (p == 7) {
+  } else if (p == 8 ){
     document.getElementById("p").innerHTML = "You can't plant!!!";
 
-  } else if (p == 6) {
+  } else if (p == 7 ){
+    document.getElementById("p").innerHTML = "You can't plant!!!";
+
+  } else if (p == 6 ){
     document.getElementById("p").innerHTML = "The variety of farming will now have a success rate 40%";
 
-  } else if (p == 5) {
+  } else if (p == 5 ){
     document.getElementById("p").innerHTML = "The variety of farming will now have a success rate 50%";
 
-  } else if (p == 4) {
+  } else if (p == 4 ){
     document.getElementById("p").innerHTML = "The variety of farming will now have a success rate 60%";
 
-  } else if (p == 3) {
+  } else if (p == 3 ){
     document.getElementById("p").innerHTML = "You can plant :)";
 
-  } else if (p == 2) {
+  } else if (p == 2 ){
     document.getElementById("p").innerHTML = "You can plant :)";
 
-  } else if (p == 1) {
+  } else if (p == 1 ){
     document.getElementById("p").innerHTML = "You can plant :)";
 
   } else {
@@ -187,33 +187,33 @@ function deductFromTotal4() {
 }
 function deductFromTotal5() {
   f = document.getElementById("ff").value;
-  if (f == 10) {
+  if (f ==10) {
     document.getElementById("f").innerHTML = "You can't plant!!!";
-  } else if (f == 9) {
-    document.getElementById("f").innerHTML = "You can't plant!!!";
-
-  } else if (f == 8) {
+  } else if (f == 9 ){
     document.getElementById("f").innerHTML = "You can't plant!!!";
 
-  } else if (f == 7) {
+  } else if (f == 8 ){
     document.getElementById("f").innerHTML = "You can't plant!!!";
 
-  } else if (f == 6) {
+  } else if (f == 7 ){
+    document.getElementById("f").innerHTML = "You can't plant!!!";
+
+  } else if (f == 6 ){
     document.getElementById("f").innerHTML = "The variety of farming will now have a success rate 40%";
 
-  } else if (f == 5) {
+  } else if (f == 5 ){
     document.getElementById("f").innerHTML = "The variety of farming will now have a success rate 50%";
 
-  } else if (f == 4) {
+  } else if (f == 4 ){
     document.getElementById("f").innerHTML = "The variety of farming will now have a success rate 60%";
 
-  } else if (f == 3) {
+  } else if (f == 3 ){
     document.getElementById("f").innerHTML = "You can plant :)";
 
-  } else if (f == 2) {
+  } else if (f == 2 ){
     document.getElementById("f").innerHTML = "You can plant :)";
 
-  } else if (f == 1) {
+  } else if (f == 1 ){
     document.getElementById("f").innerHTML = "You can plant :)";
 
   } else {
@@ -222,33 +222,33 @@ function deductFromTotal5() {
 }
 function deductFromTotal6() {
   m = document.getElementById("mm").value;
-  if (m == 10) {
+  if (m ==10) {
     document.getElementById("m").innerHTML = "You can't plant!!!";
-  } else if (m == 9) {
-    document.getElementById("m").innerHTML = "You can't plant!!!";
-
-  } else if (m == 8) {
+  } else if (m == 9 ){
     document.getElementById("m").innerHTML = "You can't plant!!!";
 
-  } else if (m == 7) {
+  } else if (m == 8 ){
     document.getElementById("m").innerHTML = "You can't plant!!!";
 
-  } else if (m == 6) {
+  } else if (m == 7 ){
+    document.getElementById("m").innerHTML = "You can't plant!!!";
+
+  } else if (m == 6 ){
     document.getElementById("m").innerHTML = "The variety of farming will now have a success rate 40%";
 
-  } else if (m == 5) {
+  } else if (m == 5 ){
     document.getElementById("m").innerHTML = "The variety of farming will now have a success rate 50%";
 
-  } else if (m == 4) {
+  } else if (m == 4 ){
     document.getElementById("m").innerHTML = "The variety of farming will now have a success rate 60%";
 
-  } else if (m == 3) {
+  } else if (m == 3 ){
     document.getElementById("m").innerHTML = "You can plant :)";
 
-  } else if (m == 2) {
+  } else if (m == 2 ){
     document.getElementById("m").innerHTML = "You can plant :)";
 
-  } else if (m == 1) {
+  } else if (m == 1 ){
     document.getElementById("m").innerHTML = "You can plant :)";
 
   } else {
@@ -256,13 +256,4 @@ function deductFromTotal6() {
   }
 
 
-}
-function all() {
-  if (r == 3) {
-    document.getElementById("test").innerHTML = " is good!";
-
-  } else {
-    document.getElementById("test").innerHTML = "sorry is Not!";
-
-  }
 }
